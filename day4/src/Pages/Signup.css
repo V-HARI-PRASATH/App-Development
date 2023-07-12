@@ -1,0 +1,13 @@
+.signup{
+    background-color: white;
+    opacity: 80%;
+    height: 600px;
+    width: 700px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 400px;
+    border-radius: 10%;
+}
+.signup h1{
+    font-size: 35px;
+}

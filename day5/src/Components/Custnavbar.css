@@ -1,0 +1,65 @@
+.custnavbar{
+    position: fixed;
+    z-index: 9999;
+}
+.navbar
+{
+    float: right;
+    width: 1540px;
+    height: 40px;
+    background-color: white;
+    opacity: 80%;
+}
+.profile{
+    float: right;
+    border-radius: 50px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+.profileboxvis{
+    float: right;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    opacity: 80%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: block;
+}
+.profileboxhide{
+    float: right;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    opacity: 80%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: none;
+}
+.ele{
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    float:left;
+}
+.ele:hover{
+    color: white;
+    background-color: black;
+}
+.sele
+{
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    float:left;
+}
